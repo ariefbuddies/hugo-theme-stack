@@ -38,7 +38,7 @@ params:
         subtitle: And then the sky will fall.
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/avatar2.png
 
     article:
         math: false
@@ -97,7 +97,7 @@ params:
             limit: 10
 
     opengraph:
-        twitter:
+        twitter: @riefb79
             # Your Twitter username
             site:
 
