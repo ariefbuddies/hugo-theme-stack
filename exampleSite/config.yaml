@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Brafie Example Site
+title: Br@fie Site
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -26,8 +26,8 @@ params:
     favicon:
 
     footer:
-        since: beginning
-        customText:
+        since: Beginning
+        customText: Till the end
 
     dateFormat:
         published: Jan 02, 2006
@@ -35,7 +35,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: And then the sky will fall.
         avatar:
             local: true
             src: img/avatar.png
@@ -48,7 +48,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         utterances:
