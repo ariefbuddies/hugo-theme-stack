@@ -97,7 +97,7 @@ params:
             limit: 10
 
     opengraph:
-        twitter: @riefb79
+        twitter: 
             # Your Twitter username
             site:
 
