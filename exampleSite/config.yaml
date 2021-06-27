@@ -35,7 +35,7 @@ params:
 
     sidebar:
         emoji: 😍
-        subtitle: And then the sky will fall.
+        subtitle: And then the sky will fall😎
         avatar:
             local: true
             src: img/avatar2.png
