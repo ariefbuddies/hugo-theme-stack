@@ -28,7 +28,7 @@
 @import "custom.scss";
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: var(--accent-color);
 
     &:hover {
